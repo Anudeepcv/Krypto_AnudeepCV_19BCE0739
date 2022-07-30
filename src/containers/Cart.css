@@ -1,0 +1,142 @@
+.pl1{
+    padding-right: 20em;
+}
+.pl2{
+    color: white;
+    text-decoration: none;
+    padding-left: 40px;
+}
+
+.pl3{
+    color: white;
+    text-decoration: none;
+    padding-left: 40px;
+}
+h2{
+    color: white;
+    padding-left: 6em;
+}
+i{
+    padding-left: 10px;
+}
+.cart-count{
+    color: white;
+    background: red;
+    font-size: 10px;
+    vertical-align: top;
+    margin-left: -10px;
+    padding: 0 5px;
+    border-radius: 100px;
+}
+.abcd{
+    color: red;
+    padding-left: 10px;
+}
+input[type="number"]{
+    width:2em;
+}
+.abc2{
+    margin-left: -180px;
+}
+.abc3{
+    margin-left: -160px;
+}
+body{
+    background-color: lightgray;
+}
+.prodimg{
+    width: 13em;
+    height: 13em;
+}
+.mc1{
+    margin-left: 8em;
+    background-color: white;
+    width: 32em;
+    height: 16em;
+    box-shadow: 0.5px 2px lightgray;
+    border-radius: 4px;
+}
+.mc{
+    width:26em;
+    height:10em;
+    padding-top: 10px;
+    margin-top: 20px;
+}
+.btn1{
+    margin-top: 10px;
+    background-color: lightgray;
+    margin-left: -0.6em;
+    width: 9.2em;
+}
+.price1{
+    padding-top: 5px;
+    font-size: 14px;
+}
+.price2{
+    padding-top: 5px;
+    font-size: 14px;
+}
+.price3{
+    padding-top: 5px;
+    font-size: 14px;
+}
+.price4{
+    padding-top: 30px;
+    font-size: 18px;
+}
+.num1{
+    padding-left: 72px;
+    padding-top: 5px;
+    font-size: 14px;
+}
+.num2{
+    padding-left: 80px;
+    padding-top: 5px;
+    font-size: 14px;
+}
+.num3{
+    padding-left: 88px;
+    padding-top: 5px;
+    font-size: 14px;
+}
+.num4{
+    padding-left: 150px;
+    padding-top: 30px;
+    font-size: 18px;
+}
+.line{
+    border-bottom: 2px solid lightgray;
+    padding-top: 10px;
+}
+.pd{
+    margin-left: 1em;
+    background-color: white;
+    margin-right: 27em;
+    box-shadow: 0.5px 2px lightgray;
+    border-radius: 4px;
+    padding-top: 10px;
+    margin-top: 20px;
+    margin-bottom:2em;
+}
+.h41{
+    padding-left: 0px;
+    color: gray;
+}
+h4{
+    padding-left: 10px;
+}
+.item{
+    border-radius: 4px;
+    padding-top: 20px;
+    box-shadow: 0.5px 2px lightgray;
+    width: 28em;
+    margin-left: 1em;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.itemimg{
+    margin-top: -8em;
+    margin-left: -4.5em;
+}

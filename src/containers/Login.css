@@ -1,0 +1,58 @@
+.div-form{
+    width: 45%;
+    height: 18em;
+    background-color: white;
+    border-radius: 6px;
+    padding: 25px;
+    box-shadow: 5px 5px 5px 5px grey;
+}
+
+.div-main{
+    padding-left: 30em ;
+    padding-top: 8em;
+}
+
+.pl1{
+    padding-right: 20em;
+}
+
+.fa{
+    color: white;
+}
+
+i{
+    padding-left: 10px;
+}
+
+.pl2{
+    color: white;
+    text-decoration: none;
+    padding-left: 40px;
+}
+
+.pl3{
+    color: white;
+    text-decoration: none;
+    padding-left: 40px;
+}
+
+h2{
+    color: white;
+    padding-left: 6em;
+}
+
+.logbtn{
+    padding-left: 90px;
+    border-radius: 4px;
+}
+
+body{
+    background-color:rgb(198, 222, 243);
+}
+
+.texts{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-bottom: 20px;
+    font-weight:bold;
+    font-size: xx-large;
+}
